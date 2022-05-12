@@ -31,7 +31,7 @@ To use, simply call the sendMail function which carries three parameters
 - $subject(string): Subject of the email
 - $message(string): Message(which may include html markup)
 
-####Example:
+#### Example:
 ```php
     sendMail("test@gmail.com", "Test Mail", "Hi, Test");
 ```
